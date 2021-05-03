@@ -1,19 +1,19 @@
 # Media-Organizer-Python
-## Program: Media_Organizer
-## Purpose: CLI that allows you to sort photos/videos in a folder by date and location using metadata stored in media file. Currently in development with limited functionality.
-## Owner: Anshuman Ranjan
-## Contact: anshumanr10@gmail.com
+Program: Media_Organizer
+Purpose: CLI that allows you to sort photos/videos in a folder by date and location using metadata stored in media file. Currently in development with limited functionality.
+Owner: Anshuman Ranjan
+Contact: anshumanr10@gmail.com
 
-## Purpose: To recursively scan a user-provided directory, find supported media files, extract their metadata,
-##          rename the file based on the metadata, and sort the file by date and location taken into folders
+How it works: Recursively scans a user-provided directory, find supported media files, extract their metadata,
+         rename the file based on the metadata, and sort the file by date and location taken into folders
 
-## Software Used:
-#	- Exiftool by Phil Harvey : https://exiftool.org/
-#	- Google Maps Reverse-Geocoding API
+Software Used:
+	- Exiftool by Phil Harvey : https://exiftool.org/
+	- Google Maps Reverse-Geocoding API
 
-## Supported File Types
-#	image = ['tiff', 'tif', 'jpeg', 'jpg', 'png', 'raw']
-#	video = ['3g2', '3gp', 'avi', 'flv', 'h264', 'm4v', 'mkv', 'mov', 'mp4', 'mpg', 'mpeg', 'wmv']
+ Supported File Types
+	image = ['tiff', 'tif', 'jpeg', 'jpg', 'png', 'raw']
+	video = ['3g2', '3gp', 'avi', 'flv', 'h264', 'm4v', 'mkv', 'mov', 'mp4', 'mpg', 'mpeg', 'wmv']
 
 
 
