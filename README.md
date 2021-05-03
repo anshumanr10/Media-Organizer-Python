@@ -1,8 +1,8 @@
-# Media-Organizer-Python
-Program: Media_Organizer
-Purpose: CLI that allows you to sort photos/videos in a folder by date and location using metadata stored in media file. Currently in development with limited functionality.
-Owner: Anshuman Ranjan
-Contact: anshumanr10@gmail.com
+## Media-Organizer-Python
+# Program: Media_Organizer
+# Purpose: CLI that allows you to sort photos/videos in a folder by date and location using metadata stored in media file. Currently in development with limited functionality.
+# Owner: Anshuman Ranjan
+# Contact: anshumanr10@gmail.com
 
 How it works: Recursively scans a user-provided directory, find supported media files, extract their metadata,
          rename the file based on the metadata, and sort the file by date and location taken into folders
