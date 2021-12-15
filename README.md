@@ -8,16 +8,15 @@ WARNINGS:
 	It has undergone very basic testing and its results should be checked for bugs.
 - Part 2 has some limitations, details included in "Instructions on use"
 
-### Purpose: To recursively scan a user-provided directory, find supported media files, extract their metadata,
-###          rename the file based on the metadata, and sort the file by date and location taken into folders
+##### Purpose: To recursively scan a user-provided directory, find supported media files, extract their metadata, rename the file based on the metadata, and sort the file by date and location taken into folders
 
-### Software Used:
-###	- Exiftool by Phil Harvey : https://exiftool.org/
-###	- Google Maps Reverse-Geocoding API
+##### Software Used:
+#####	- Exiftool by Phil Harvey : https://exiftool.org/
+#####	- Google Maps Reverse-Geocoding API
 
-### Supported File Types
-###	image = ['jpg', 'jpeg', 'png', 'raw', 'tiff', 'tif']
-###	video = ['mp4', 'mov', 'mpg', 'mpeg', 'wmv', 'mkv', 'h264', 'm4v', 'flv', 'avi', '3gp', '3g2']
+##### Supported File Types
+#####	image = ['jpg', 'jpeg', 'png', 'raw', 'tiff', 'tif']
+#####	video = ['mp4', 'mov', 'mpg', 'mpeg', 'wmv', 'mkv', 'h264', 'm4v', 'flv', 'avi', '3gp', '3g2']
 
 
 *Instructions on use:* 
